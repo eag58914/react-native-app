@@ -908,17 +908,17 @@
     xcode "^2.0.0"
     xmldoc "^0.4.0"
 
-"@react-native-firebase/app-types@6.0.3":
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/app-types/-/app-types-6.0.3.tgz#a420ac2b8f274e9c638d4ef36350b1d9abcc1403"
-  integrity sha512-DphELbf5A6AuIPf1HIGFvfpaUlSIXdVlrSHisTHWLNpFP45lLmpD13Ak6oMamGDIxFMLjRQz3jkTR6pCjVk4NQ==
+"@react-native-firebase/app-types@6.0.4":
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/app-types/-/app-types-6.0.4.tgz#f6c78b4759ffd46d08bc1d2ed0c40c10e1b1791c"
+  integrity sha512-jy6ySprTk786pFZEMaTsvwvaqphD1uCIr8jtAAno9KrUhiZWpizHrAsTpKA6QR2IZoTmYtHv6eWatKKVvKcQcg==
 
-"@react-native-firebase/app@^6.0.3":
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-6.0.3.tgz#3c8b01587a374132fc0df14ebf2a24ae3369a992"
-  integrity sha512-PQYcs16Mpdy+FLCYpepUiIrfzbMLS+wrDhvXOHhOJ8up15ak5wrepVWaHg+P0Bw9xI4gbq4zYy4bTh4ZMkBbzA==
+"@react-native-firebase/app@^6.0.4":
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-6.0.4.tgz#5003d9a631ac480e0c7106524c0a5463900a7f2d"
+  integrity sha512-d0hoA9oP2CrJNhrQoXC1blFd+SOirHJfJP81smloB6wHX29HOBt62BQkrTQKFerDv7ZQXOEVlUeP9tyOCmT29Q==
   dependencies:
-    "@react-native-firebase/app-types" "6.0.3"
+    "@react-native-firebase/app-types" "6.0.4"
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
 
